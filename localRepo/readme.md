@@ -11,3 +11,7 @@ push ;
 algorithim for git hub
 
 }
+branch explaination(brach commands)
+{
+
+}
